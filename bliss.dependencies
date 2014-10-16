@@ -2,7 +2,13 @@
  {
    "repository": "4.4_g2-common",
    "target_path": "device/lge/g2-common"
- }, 
+ },
+ {
+   "remote": "gh",
+   "repository": "dr87/4.4_g2-vendor",
+   "target_path": "vendor/lge",
+   "revision": "master"
+ },  
  {
    "repository": "SimpleKernel",
    "target_path": "kernel/lge/msm8974"
